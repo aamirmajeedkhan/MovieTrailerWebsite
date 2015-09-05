@@ -5,7 +5,7 @@ This is a python project part of udaity full stack developer assignment. This pr
 Open Python shell and run:<br>
 
 $ python<br>
-This will ensure correct version of python is installed by display current verison.
+This will ensure correct version of python is installed by printing current verison on console.
 In case if Python is not installed at all, see the documentation here: https://www.python.org
 
 <h3>Clone the Repository</h3>
@@ -17,5 +17,5 @@ $ cd MovieTrailerWebsite
 <h3>Execute the program:</h3>
 $ python entertainment.py
 
-A browser should open on your local machine and and render the HTML template with my favorite movies. Click on a movie thumbnail to view the trailer!
+A browser should open on your local machine and and render webpage with my favorite movies. Click on a movie thumbnail to view the trailer!
 Make sure you are online as this website use youtube and image from wikimedia.
