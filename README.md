@@ -5,6 +5,7 @@ This is a python project part of udaity full stack developer assignment. This pr
 Open Python shell and run:
 
 *$ python*
+
 This will ensure correct version of python is installed by printing current verison on console.
 In case if Python is not installed at all, see the documentation here: https://www.python.org
 
@@ -12,6 +13,7 @@ In case if Python is not installed at all, see the documentation here: https://w
 
 
 *$ git clone https://github.com/aamirmajeedkhan/MovieTrailerWebsite.git*
+
 *$ cd MovieTrailerWebsite*
 
 ###Execute the program:
