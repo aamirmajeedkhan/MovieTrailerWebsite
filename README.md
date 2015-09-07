@@ -1,21 +1,21 @@
 # MovieTrailerWebsite
 This is a python project part of udaity full stack developer assignment. This project display some of my favourite movie poster and play trailer on web browser.
 
-<h3>Make sure Python 2.7 installed</h3>
-Open Python shell and run:<br>
+###Make sure Python 2.7 installed
+Open Python shell and run:
 
-$ python<br>
+*$ python*
 This will ensure correct version of python is installed by printing current verison on console.
 In case if Python is not installed at all, see the documentation here: https://www.python.org
 
-<h3>Clone the Repository</h3>
+###Clone the Repository
 
 
-$ git clone https://github.com/aamirmajeedkhan/MovieTrailerWebsite.git<br>
-$ cd MovieTrailerWebsite
+*$ git clone https://github.com/aamirmajeedkhan/MovieTrailerWebsite.git*
+*$ cd MovieTrailerWebsite*
 
-<h3>Execute the program:</h3>
-$ python entertainment.py
+###Execute the program:
+*$ python entertainment_centre.py*
 
 A browser should open on your local machine and and render webpage with my favorite movies. Click on a movie thumbnail to view the trailer!
 Make sure you are online as this website use youtube and image from wikimedia.
